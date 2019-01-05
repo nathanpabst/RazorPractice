@@ -7,5 +7,7 @@ namespace RazorPractice.Models
 {
     public class Names
     {
+        public string Name { get; set; }
+
     }
 }
